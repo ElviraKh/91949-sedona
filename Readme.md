@@ -1,7 +1,7 @@
 ﻿# Личный проект «Седона»
 
 * Студент: [Эльвира Elvira](https://up.htmlacademy.ru/htmlcss/13/user/91949).
-* Наставник: `Неизвестно`.
+* Наставник: [Ирина Соколовская] (https://up.htmlacademy.ru/htmlcss/13/user/106311).
 
 ---
 
